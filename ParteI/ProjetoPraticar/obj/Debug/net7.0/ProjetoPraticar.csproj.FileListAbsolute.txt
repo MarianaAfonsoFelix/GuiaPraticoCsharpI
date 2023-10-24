@@ -1,0 +1,15 @@
+C:\EstudoCSharp\ParteI\ProjetoPraticar\bin\Debug\net7.0\ProjetoPraticar.exe
+C:\EstudoCSharp\ParteI\ProjetoPraticar\bin\Debug\net7.0\ProjetoPraticar.deps.json
+C:\EstudoCSharp\ParteI\ProjetoPraticar\bin\Debug\net7.0\ProjetoPraticar.runtimeconfig.json
+C:\EstudoCSharp\ParteI\ProjetoPraticar\bin\Debug\net7.0\ProjetoPraticar.dll
+C:\EstudoCSharp\ParteI\ProjetoPraticar\bin\Debug\net7.0\ProjetoPraticar.pdb
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.csproj.AssemblyReference.cache
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.AssemblyInfoInputs.cache
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.AssemblyInfo.cs
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.csproj.CoreCompileInputs.cache
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.dll
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\refint\ProjetoPraticar.dll
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.pdb
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ProjetoPraticar.genruntimeconfig.cache
+C:\EstudoCSharp\ParteI\ProjetoPraticar\obj\Debug\net7.0\ref\ProjetoPraticar.dll
